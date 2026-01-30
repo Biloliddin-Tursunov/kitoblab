@@ -4,8 +4,9 @@
   font-weight: 400;
 
   /* Color Scheme - Light (Default) */
-  --bg-color: #9ac2db; /* Telegram default pattern bg color approx */
-  --chat-bg: #8e8e93; 
+  --bg-color: #9ac2db;
+  /* Telegram default pattern bg color approx */
+  --chat-bg: #8e8e93;
   --surface-color: #ffffff;
   --text-primary: #000000;
   --text-secondary: #707579;
@@ -26,32 +27,42 @@
   --msg-in-bg: #212121;
   --msg-out-bg: #8774e1;
   --accent-color: #8774e1;
-  --link-color: #8774e1; 
+  --link-color: #8774e1;
   --reply-border: #ffffff;
-   --service-bg: rgba(255, 255, 255, 0.15);
+  --service-bg: rgba(255, 255, 255, 0.15);
   --service-text: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 body {
   margin: 0;
+  padding: 0;
   min-width: 320px;
-  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
   background-color: var(--bg-color);
   color: var(--text-primary);
   transition: background-color 0.3s, color 0.3s;
+  -webkit-text-size-adjust: 100%;
 }
 
 /* Scrollbar */
 ::-webkit-scrollbar {
   width: 6px;
 }
+
 ::-webkit-scrollbar-track {
   background: transparent;
 }
+
 ::-webkit-scrollbar-thumb {
   background: rgba(0, 0, 0, 0.2);
   border-radius: 3px;
 }
+
 [data-theme='dark'] ::-webkit-scrollbar-thumb {
   background: rgba(255, 255, 255, 0.2);
 }
@@ -60,6 +71,7 @@ a {
   color: var(--link-color);
   text-decoration: none;
 }
+
 a:hover {
   text-decoration: underline;
 }

@@ -7,7 +7,9 @@ import {
   Linkedin,
   Youtube,
   Send,
-  Info
+  Info,
+  Menu,
+  X
 } from 'lucide-react';
 import './App.css';
 import { MessageBubble } from './components/MessageBubble';
@@ -22,6 +24,8 @@ function App() {
     return (saved as 'light' | 'dark') || 'light';
   });
 
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
+
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme);
     localStorage.setItem('theme', theme);
@@ -29,6 +33,10 @@ function App() {
 
   const toggleTheme = () => {
     setTheme(prev => (prev === 'light' ? 'dark' : 'light'));
+  };
+
+  const toggleSidebar = () => {
+    setIsSidebarOpen(prev => !prev);
   };
 
   // Process messages: reverse them so the latest is at the top (as requested)
@@ -42,7 +50,12 @@ function App() {
     <div className="app-container">
       <main className="main-content">
         <header className="header">
-          <div className="header-title">{metadata.siteName}</div>
+          <div className="header-left">
+            <button className="menu-toggle" onClick={toggleSidebar}>
+              <Menu size={24} />
+            </button>
+            <div className="header-title">{metadata.siteName}</div>
+          </div>
           <button
             className="theme-toggle"
             onClick={toggleTheme}
@@ -51,6 +64,8 @@ function App() {
             {theme === 'light' ? <Moon size={20} color='black' /> : <Sun size={20} color='white' />}
           </button>
         </header>
+
+        {isSidebarOpen && <div className="sidebar-overlay" onClick={toggleSidebar} />}
 
         <div className="chat-container">
           {processedMessages.map((msg, index) => {
@@ -68,7 +83,13 @@ function App() {
         </div>
       </main>
 
-      <aside className="sidebar">
+      <aside className={`sidebar ${isSidebarOpen ? 'open' : ''}`}>
+        <div className="sidebar-mobile-header">
+          <div className="header-title">{metadata.siteName}</div>
+          <button className="close-sidebar" onClick={toggleSidebar}>
+            <X size={24} />
+          </button>
+        </div>
         <div className="sidebar-content">
           <img src="/profile_pic.jpg" alt="KitobLab" className="profile-pic" />
 
