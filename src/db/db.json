@@ -1,0 +1,1313 @@
+{
+  "metadata": {
+    "siteName": "kitoblab.uz",
+    "tagline": "tarjima kitoblar laboratoriyasi",
+    "bio": "KitobLab — ilm-fan va falsafiy asarlarni o'zbek tiliga tarjima qilish va tahlil qilish platformasi. Bizning maqsadimiz o'zbek tilidagi sifatli ilmiy-ommabop kontentni ko'paytirishdir.",
+    "links": {
+      "website": "https://kitoblab.uz",
+      "telegram": "https://t.me/kitoblab",
+      "instagram": "https://instagram.com",
+      "linkedin": "https://linkedin.com",
+      "youtube": "https://youtube.com"
+    }
+  },
+  "messages": [
+    {
+      "id": "message-1",
+      "type": "service",
+      "text": "26 September 2025",
+      "date": null
+    },
+    {
+      "id": "message1",
+      "type": "service",
+      "text": "Channel «KitobLab» created",
+      "date": null
+    },
+    {
+      "id": "message5",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "26.09.2025 23:52:08 UTC+05:00",
+      "time": "23:52",
+      "text": "26-sentabr 2025-yil, tungi soat 11 da ushbu boʻlajak pablik yaratildi. Xayrli qilsin!",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-2",
+      "type": "service",
+      "text": "27 September 2025",
+      "date": null
+    },
+    {
+      "id": "message6",
+      "type": "service",
+      "text": "Voice chat scheduled for 27.09.2025 22:30:00",
+      "date": null
+    },
+    {
+      "id": "message8",
+      "type": "service",
+      "text": "Voice chat",
+      "date": null
+    },
+    {
+      "id": "message9",
+      "type": "service",
+      "text": "Voice chat (340 seconds)",
+      "date": null
+    },
+    {
+      "id": "message11",
+      "type": "service",
+      "text": "Voice chat",
+      "date": null
+    },
+    {
+      "id": "message15",
+      "type": "service",
+      "text": "Voice chat (4515 seconds)",
+      "date": null
+    },
+    {
+      "id": "message-3",
+      "type": "service",
+      "text": "28 September 2025",
+      "date": null
+    },
+    {
+      "id": "message16",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "28.09.2025 15:29:07 UTC+05:00",
+      "time": "15:29",
+      "text": "",
+      "replyTo": null,
+      "media": {
+        "type": "file",
+        "src": "files/Islam & Nihilism __ Yusuf Ponders.pdf",
+        "title": "Islam & Nihilism || Yusuf Ponders.pdf",
+        "size": "1.0 MB"
+      },
+      "isJoined": false
+    },
+    {
+      "id": "message17",
+      "type": "message",
+      "author": "Unknown",
+      "date": "28.09.2025 15:31:27 UTC+05:00",
+      "time": "15:31",
+      "text": "",
+      "replyTo": null,
+      "media": {
+        "type": "file",
+        "src": "files/Ислам & Нигилизм __ Юсуф Пондерс.pdf",
+        "title": "Ислам & Нигилизм || Юсуф Пондерс.pdf",
+        "size": "4.3 MB"
+      },
+      "isJoined": true
+    },
+    {
+      "id": "message18",
+      "type": "message",
+      "author": "Unknown",
+      "date": "28.09.2025 15:32:31 UTC+05:00",
+      "time": "15:32",
+      "text": "",
+      "replyTo": null,
+      "media": {
+        "type": "photo",
+        "src": "photos/photo_1@28-09-2025_15-32-31_thumb.jpg",
+        "href": "photos/photo_1@28-09-2025_15-32-31.jpg"
+      },
+      "isJoined": true
+    },
+    {
+      "id": "message19",
+      "type": "message",
+      "author": "Unknown",
+      "date": "28.09.2025 15:32:31 UTC+05:00",
+      "time": "15:32",
+      "text": "Mundarija<br>Islom va nihilizm: dardim va davom",
+      "replyTo": null,
+      "media": {
+        "type": "photo",
+        "src": "photos/photo_2@28-09-2025_15-32-31_thumb.jpg",
+        "href": "photos/photo_2@28-09-2025_15-32-31.jpg"
+      },
+      "isJoined": true
+    },
+    {
+      "id": "message20",
+      "type": "message",
+      "author": "Unknown",
+      "date": "28.09.2025 15:32:31 UTC+05:00",
+      "time": "15:32",
+      "text": "",
+      "replyTo": null,
+      "media": {
+        "type": "photo",
+        "src": "photos/photo_3@28-09-2025_15-32-31_thumb.jpg",
+        "href": "photos/photo_3@28-09-2025_15-32-31.jpg"
+      },
+      "isJoined": true
+    },
+    {
+      "id": "message21",
+      "type": "service",
+      "text": "Voice chat scheduled for 28.09.2025 20:00:00",
+      "date": null
+    },
+    {
+      "id": "message23",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "28.09.2025 19:59:00 UTC+05:00",
+      "time": "19:59",
+      "text": "yangi kitob boʻyicha 15 daqiqada boshlaymiz.",
+      "replyTo": "message19",
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message24",
+      "type": "service",
+      "text": "Voice chat",
+      "date": null
+    },
+    {
+      "id": "message29",
+      "type": "service",
+      "text": "Voice chat (2883 seconds)",
+      "date": null
+    },
+    {
+      "id": "message30",
+      "type": "service",
+      "text": "kitoblab.uz pinned this message",
+      "date": null
+    },
+    {
+      "id": "message31",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "28.09.2025 21:05:35 UTC+05:00",
+      "time": "21:05",
+      "text": "<a href=\"\" onclick=\"return ShowHashtag(&quot;vocab&quot;)\">#vocab</a><br><a href=\"\" onclick=\"return ShowHashtag(&quot;nihilizm&quot;)\">#nihilizm</a><br><br>Post-Truth — Haqso’ng",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-4",
+      "type": "service",
+      "text": "2 October 2025",
+      "date": null
+    },
+    {
+      "id": "message34",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "02.10.2025 11:22:46 UTC+05:00",
+      "time": "11:22",
+      "text": "MUNDARIJA:<br><br>So‘zboshi<br><br>Kimman o‘zi va menga nima?<br>Kirish<br><br>1-bo‘lim: Nihilizmni tushunishga debocha<br><br>Nihilizm falsafasi<br>Nihilizm ahamiyati<br>Nihilizmning maqsadlar va qadriyatlarga aloqasi<br>O‘zini puturlatmish a’lo qadriyat<br><br>2-bo‘lim: Nihilizmning sabab va oqibatlari<br><br>“Haqso‘ng”ning paydo bo‘lishi<br>Umumijtimoiy horg‘inlik<br>Seroblik qa’riga gʻarq boʻlmoq<br>Nihilizm dard sifatida<br>Haqiqat va Texnogipnoz<br>Jamiyat, Majburiyat va Burch<br>Darz ketmish Jamiyat<br>Axloq, Ma’no va Iymon sakrovi<br>Nihilist nolasi<br><br>3-bo‘lim: To‘siqlarni yengish<br><br>Qanday to‘siqlar?<br>Nima uchun Ilohga ishonish kerak?<br>Empirik dalil yo‘q?<br>O‘ta ko‘p xudolar va dinlar!<br>Kattalarning hikmati haqida<br>Iymon sakrovi haqida ko‘proq<br>Muvozanat topmoq haqida<br><br>4-bo‘lim: Islom ziddizahar sifatida<br><br>So‘nggi qadam<br>Himoya va davo tavsiyasi<br>Haqso‘ng va epistemik nihilizm<br>Pessimizmni yengmoq va umid paydo qilmoq<br>Shubhachilik bilan kurash va Axloqiy Nihilizm<br>Sabr, Mamnuniyat va Qat’iyat<br>Burch va Mas’uliyat<br>Inson zoti uchun mustahkam poydevor<br><br>Xotima<br><br>Ilovalar",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message36",
+      "type": "message",
+      "author": "Unknown",
+      "date": "02.10.2025 11:24:41 UTC+05:00",
+      "time": "11:24",
+      "text": "“Soʻzboshi” boʻlimi boʻyicha bugun soat 20:00 da suhbatlashamiz, nasib boʻlsa<br><br><a href=\"https://t.me/kitoblab?livestream=330421f11cf8b8013f\">https://t.me/kitoblab?livestream=330421f11cf8b8013f</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": true
+    },
+    {
+      "id": "message38",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "02.10.2025 19:37:18 UTC+05:00",
+      "time": "19:37",
+      "text": "Uyga yetib ololmadim hali. 20:30 da boshlaymiz. Ma’zur tutasizlar 🙏🏾",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message39",
+      "type": "service",
+      "text": "Voice chat scheduled for 02.10.2025 20:30:00",
+      "date": null
+    },
+    {
+      "id": "message40",
+      "type": "service",
+      "text": "Voice chat",
+      "date": null
+    },
+    {
+      "id": "message49",
+      "type": "service",
+      "text": "Voice chat (3407 seconds)",
+      "date": null
+    },
+    {
+      "id": "message51",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "02.10.2025 21:45:29 UTC+05:00",
+      "time": "21:45",
+      "text": "<a href=\"\" onclick=\"return ShowHashtag(&quot;suhbat&quot;)\">#suhbat</a>*1<br><br>Kitob bilan tanishuv suhbati<br><br>Matn: Islom va nihilizm. Dardim va davom. <br>Muallif: Yusuf Ponders<br><br>28-sentabr 2025-yil<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": {
+        "type": "file",
+        "src": "files/record.ogg",
+        "title": "kitoblab – Islom va Nihilizm - Kirish",
+        "size": "36:33"
+      },
+      "isJoined": false
+    },
+    {
+      "id": "message53",
+      "type": "message",
+      "author": "Unknown",
+      "date": "02.10.2025 21:46:30 UTC+05:00",
+      "time": "21:46",
+      "text": "<a href=\"\" onclick=\"return ShowHashtag(&quot;suhbat&quot;)\">#suhbat</a>*2<br><br>So’zboshi. <br>Kimman o’zi va menga nima?<br><br>Matn: Islom va nihilizm. Dardim va davom. <br>Muallif: Yusuf Ponders<br><br>2-oktabr 2025-yil<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": {
+        "type": "file",
+        "src": "files/record (1).ogg",
+        "title": "kitoblab – IvN: Soʻzboshi",
+        "size": "51:29"
+      },
+      "isJoined": true
+    },
+    {
+      "id": "message54",
+      "type": "service",
+      "text": "kitoblab.uz pinned this message",
+      "date": null
+    },
+    {
+      "id": "message-5",
+      "type": "service",
+      "text": "3 October 2025",
+      "date": null
+    },
+    {
+      "id": "message55",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "03.10.2025 10:05:39 UTC+05:00",
+      "time": "10:05",
+      "text": "Savol: <br>— Islom va Nihilizm kitobi usluban badiiy-avtobiografikmi?<br><br>Javob: <br>— Falsafiy ilmiy-ommabop kitob. <br>Kirish bobida kitob strukturasi haqida tushuncha berib o’tadi.<br><br>Kitob tizimli yozilgan bo’lib, Nihilizm va Islom mavzularini falsafiy asoslarda tartib bilan muhokama qiladi. Uslub ilmiy-ommabop.<br><br>Nihilizm <br>1) nima ekanini ta’rifab, <br>2) uning sabab-oqibatlarini ko’rib chiqib, <br>3) undan qutilishdagi to’siqlarni sanab va muolaja qilib,<br>4) oxirida Islom davo, ziddizahar sifatida taklif qilinadi.<br><br><a href=\"https://t.me/kitoblab\">@kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message56",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "03.10.2025 14:31:36 UTC+05:00",
+      "time": "14:31",
+      "text": "Ushbu kitob muallifi:<br><br><a href=\"https://youtube.com/@yusufponders\">https://youtube.com/@yusufponders</a><br><br><a href=\"https://t.me/kitoblab\">@kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message58",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "03.10.2025 22:29:19 UTC+05:00",
+      "time": "22:29",
+      "text": "Kirish va Nihilizmni tushunishga debocha nomli 1-boʻlim boʻyicha Shanba soat 20:00 da suhbatlashamiz.<br><br><a href=\"https://t.me/kitoblab?livestream\">https://t.me/kitoblab?livestream</a><br><br><a href=\"https://t.me/kitoblab\">@kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-6",
+      "type": "service",
+      "text": "4 October 2025",
+      "date": null
+    },
+    {
+      "id": "message59",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "04.10.2025 11:00:20 UTC+05:00",
+      "time": "11:00",
+      "text": "Turli hududlardagi vaqt farqini hisobga olib, 20:30 da boshlarkanmiz. Shunda koʻpchilikka qulay boʻlarkan.<br><br><a href=\"https://t.me/kitoblab?livestream\">https://t.me/kitoblab?livestream</a><br><br><a href=\"https://t.me/kitoblab\">@kitoblab</a>",
+      "replyTo": "message58",
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message60",
+      "type": "service",
+      "text": "Voice chat scheduled for 04.10.2025 20:30:00",
+      "date": null
+    },
+    {
+      "id": "message61",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "04.10.2025 11:52:15 UTC+05:00",
+      "time": "11:52",
+      "text": "Kitobning mualliflik huquqi egasi bo’lmish Sapience Institute sahifasida kitob va muallif haqida:<br><br><a href=\"https://www.sapienceinstitute.org/islam-nihilism\">https://www.sapienceinstitute.org/islam-nihilism</a><br><br><a href=\"https://t.me/kitoblab\">@kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message95",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "04.10.2025 18:53:37 UTC+05:00",
+      "time": "18:53",
+      "text": "Vanihoyat tartibli qilib, tashlay oldim matnni. Tanishib chiqib, 20:30 birgalikda boshlaymiz. <br><br>Birinchi to’plamda “Kirish” qismi berilgan, ya’ni unda kitob tuzilmasi qanaqa holatda shakllangan degan savolga javob olamiz.<br><br>Ikkinchi to’plamda esa “Nihilizmni tushunishga debocha” nomli 1-bo’lim matni. Unda nihilizm o’zi nimaligi va kitob davomida keladigan muhim tushunchalarga ta’rif berilgan.<br><br><a href=\"https://t.me/kitoblab\">@kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message96",
+      "type": "message",
+      "author": "Unknown",
+      "date": "04.10.2025 18:58:22 UTC+05:00",
+      "time": "18:58",
+      "text": "Suhbatimiz formati ikki qismdan iborat bo’ladi:<br><br>1. Ilk yarim soatlikda matn bilan tanishib, tushunarsiz va/yoki murakkab joylari ustida ishlaymiz. Matnni o’qish davomida fikrlar va savollar uchun qaydlar qilib boramiz.<br><br>2. Keyingi qismda esa qayd qilinmish fikr va savollarni birgalikda muhokama qilamiz. Yo konkret javoblar topamiz, yo mavhum savollarimizning o’ziga aniqlik kiritamiz.<br><br><a href=\"https://t.me/kitoblab\">@kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": true
+    },
+    {
+      "id": "message97",
+      "type": "service",
+      "text": "Voice chat",
+      "date": null
+    },
+    {
+      "id": "message98",
+      "type": "service",
+      "text": "Voice chat (3709 seconds)",
+      "date": null
+    },
+    {
+      "id": "message99",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "04.10.2025 22:01:31 UTC+05:00",
+      "time": "22:01",
+      "text": "<a href=\"\" onclick=\"return ShowHashtag(&quot;suhbat&quot;)\">#suhbat</a>*3<br><br>1-boʻlim: Nihilizmni tushunishga debocha<br><br>Matn: Islom va nihilizm. Dardim va davom. <br>Muallif: Yusuf Ponders<br><br>4-oktabr 2025-yil<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": {
+        "type": "file",
+        "src": "files/record (2).ogg",
+        "title": "kitoblab – 1-bo’lim: Nihilizmni tushunishga debocha",
+        "size": "47:05"
+      },
+      "isJoined": false
+    },
+    {
+      "id": "message-7",
+      "type": "service",
+      "text": "6 October 2025",
+      "date": null
+    },
+    {
+      "id": "message101",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "06.10.2025 02:44:26 UTC+05:00",
+      "time": "02:44",
+      "text": "<a href=\"https://telegra.ph/file/129e06646897f262be539.jpg\">​</a>Охирги етти кун давомида ушбу муқаддас зиёрат — <strong>ҳаж амали</strong>ни адо қилар эканман, нафақат дунёнинг энг буюк подшоҳлари, лавозим ва қудрат эгалари, сиёсат ва дин арбоблари билан, балки танлари оқлар ичра оқ, кўзлари кўклар ичра кўк, сочлари эса тилларанглилар ичида энг тилларанг бўлган мусулмон биродарлар билан бир хил идишдан таом едим, бир хил идишдан ичдим, айни тўшак ва гилам устида уйқуга ётдим. <br><br>Лекин умримда биринчи бор улар <strong>\"оқ\" [танли] одам</strong> сифатида намоён бўлишмади. Кўзларига боқар эканман, улар ўзларини \"оқ\" дея ҳисоблашмас эди. <br><br><strong>Худо[ Аллоҳ]нинг Яккалигига иймон</strong> келтиришлари хаёлларидан \"оқ\"ликни ўчириб ташлаган ва натижада бошқа рангли тана эгаларига бўлган муомала ва хатти-ҳаракатларини ўзгартирган эди. Ягона Аллоҳга ишонишлари уларни Америка оқ танлиларидан буткул ўзгартирган эди. Ташқи кўринишлари улар билан бўлган муносабатимда ҳеч қанақа таъсирга эга эмас эди.<br><br>Ал-Ҳаж Малик аш-Шабаз (Малкольм Икс) <br><br>\"Оқ танлилардан мамнун Малкольм Икснинг Макка сафари таассуротлари\" <em>The</em> <em>New York Times</em> журнали, 8 май 1964 йил<br><br>© Ислом ва ниҳилизм: дардим ва давом || Юсуф Пондерс",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message102",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "06.10.2025 15:19:30 UTC+05:00",
+      "time": "15:19",
+      "text": "Nihilizmning sabab va oqibatlari nomli 2-bo’lim yuzasidan, nasib bo’lsa, Chorshanba kuni 20:30 da suhbatlashamiz.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-8",
+      "type": "service",
+      "text": "7 October 2025",
+      "date": null
+    },
+    {
+      "id": "message106",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "07.10.2025 12:44:19 UTC+05:00",
+      "time": "12:44",
+      "text": "Nihilizm turli shakllarda namoyon bo’lishi mumkin, biroq umumiy tarzda uni barcha ma’no-yu maqsad inkori va an’anaviy axloqning parchalanuvi {1} deb ta’riflash mumkin. <br><br>Devid Mateson nihilizmni \"barcha jihatlarni hisobga olganda hech qanaqa hayot yashashga arzimaydi {2}” degan mavqe deb ta’riflaydi; Raff Donelson esa nihilizmning muayyan shaklini \"hayot bu qandaydir ma’nosiz, bo‘sh\" va yana \"yashashga arzimaydi {3}” deb tasvirlaydi. <br><br>Ushbu ta’riflardan ko‘rinib turibdiki, nihilizm bu optimistik emas, balki pessimistik dunyoqarashdir.<br><br>© Islom va Nihilizm. Dardim va davom || Yusuf Ponders<br><br>1. Britannica, The Editors of Encyclopaedia. ‘Nihilism’. Encyclopedia Britannica, 13 March 2020<br>2. Matheson D., ‘Incoherence of Soft Nihilism’, Think, 47/16, (2017) 127-135 (p.127)<br>3. Donelson R, ‘The Nihilist’, The Pragmatism and Prejudice of Oliver Wendell Holmes Jr., Edited by Vannatta S., (Maryland: Lexington Books, 2019) p. 3<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message107",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "07.10.2025 13:46:23 UTC+05:00",
+      "time": "13:46",
+      "text": "Matn tahriri cho’zilishini hisobga olib, suhbatni Payshanba soat 20:30 ga ko’chiramiz.<br><br>Mavzu: 2-bo’lim: Nihilizm. Sabab va oqibatlar.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": "message102",
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message108",
+      "type": "service",
+      "text": "Voice chat scheduled for 09.10.2025 20:30:00",
+      "date": null
+    },
+    {
+      "id": "message-9",
+      "type": "service",
+      "text": "8 October 2025",
+      "date": null
+    },
+    {
+      "id": "message111",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "08.10.2025 13:04:13 UTC+05:00",
+      "time": "13:04",
+      "text": "Martin Haydeggerning “Dazayn” tushunchasi haqida:<br><br><a href=\"https://plato.stanford.edu/entries/heidegger/\">https://plato.stanford.edu/entries/heidegger/</a><br><br>Dazaynga aloqador qismining tarjimasini ham tayyorlayman keyinroq.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message112",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "08.10.2025 14:44:18 UTC+05:00",
+      "time": "14:44",
+      "text": "Agar dunyoni qochmoq kerak bo‘lmish narsa deb bilsak, shu dunyoni to‘ldirgan odamlardan ham qochayotgan bo‘lamiz, sababi ikkisi bir-biri bilan chambarchas bog‘liqdir. Nemis faylasufi Martin Haydegger o‘zining “Vujud va vaqt” asarida insonlarni “Dunyodagi-vujud 38” [Being-in-the-world] sifatida tavsiflaydi. Ya’ni biz shunchaki dunyoda narsa yoki obyekt kabi mavjud emasmiz. Siz yoki mening dunyoda mavjudlik holim shokoladning qutidagi mavjudlik holiga ekvivalent emas. Insonni bu tarzda tasvirlash uni o‘ziga xos qiluvchi negizga butunlay e’tibor bermayotgan bo‘ladi. Bu haqida Uilyam Larj shunday deydi:<br><br>“Dunyoni bunday tushunish bizning Vujudiy holimizni narsalarning Vujudi bilan adashtiradi, biz aynan shu ishni qilmasligimiz lozim. Men stakan mavjud bo‘lgani kabi mavjud emasman. Shubhasiz, menga ham shunday [ya’ni stakan kabi] munosabat qilishlari mumkin. Muayyan nuqtayi nazardan qaraganda men ham narsa kabi ko‘rinishim mumkin. Fotosuratda turganimda tasodifiy kuzatuvchiga xuddi stakandagi suv kabi shunchaki xonada turgandek tuyularman. Biroq shu holatda ham suratga boshqacha qarash mumkin. Yuz ifodam o‘sha paytda o‘zimni qanday his qilganimni ko‘rsata oladi. Ehtimol, men xafa yoki o‘ng‘aysiz ko‘rinishim mumkin. Balki mening dunyom o‘zim bilan uyg‘un bo‘lmagandir. “Mening dunyom” iborasi va buni muayyan tarzda tushunishingizning o‘ziyoq men bilan stakandagi suv o‘rtasida yaxshigina farq borligini ko‘rsatadi. Qanaqasiga suvning ham o‘z dunyosi bor deb aytish mumkin? Vaholanki, o‘zimiz va boshqalar haqida shunday o‘ylash juda oson. Ko‘chada ko‘rishganda sizga “Ahvollar qalay?” desam, nimani so‘rayotgan bo‘laman axir? Sizning dunyongizdan boshqa yana nima ham bo‘lardi? 39”<br><br>© Islom va Nihilizm. Dardim va davom | Jamiyat, Majburiyat va Burch bobida | Yusuf Ponders<br><br>38. Haydegger buni \"Dazayn\" deb ataydi – bu nemischa so‘z bo‘lib, \"hamvujud\" [ya’ni alohida va yopiq emas, balki atrof hamda atrofdagilarga ochiq va birga mavjud] degan ma’noni anglatadi. Haydegger bu atamani vujudning insonga xos turini ifodalash uchun ishlatgan. Dazayn bu bizning nima ekanimiz emas, balki qay holda mavjud ekanimizni tushuntirishga qaratilgan ontologik ta’rifdir. Shunday ekan, bu yerda ontik [ya’ni insonning nima ekani haqidagi faktlardan iborat] ta’rif ko‘zda tutilmagan.<br><br>39. &nbsp;Large W., Heidegger’s Being and Time, (Edinburgh: Edinburgh University Press, 2008), p. 34.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-10",
+      "type": "service",
+      "text": "9 October 2025",
+      "date": null
+    },
+    {
+      "id": "message113",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "09.10.2025 15:36:50 UTC+05:00",
+      "time": "15:36",
+      "text": "Bugun 2-bo’limning ushbu boblari bilan tanishib chiqamiz:<br><br>“Haqso’ng”ning paydo bo’lishi [Post-truth]<br>Umumijtimoiy horg’inlik<br>Seroblik qa’riga g’arq bo’lmoq<br>Nihilizm dard sifatida<br>Haqiqat va Texnogipnoz [Techno-hypnosis]<br>Jamiyat, Majburiyat va Burch<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message114",
+      "type": "message",
+      "author": "Unknown",
+      "date": "09.10.2025 15:41:22 UTC+05:00",
+      "time": "15:41",
+      "text": "Suhbat formatini o’zgartiramiz. <br><br>2-bo’lim hajmi kattaligi va mavzular asta-sekin murakkablashayotgani sababli har bitta bobni alohida izoh, savol va fikrlar bilan ko’rib chiqamiz.<br><br>Tahriridan vaqt ortsa, mavzuga doir chizma, rasm va prezentatsiya ham tayyorlayman. Boblarni alohida ko’rib chiqmasak, zerikarli va tushunarsiz bo’lyapti, menimcha.<br><br><br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": true
+    },
+    {
+      "id": "message127",
+      "type": "service",
+      "text": "Voice chat",
+      "date": null
+    },
+    {
+      "id": "message129",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "09.10.2025 21:41:42 UTC+05:00",
+      "time": "21:41",
+      "text": "Nihilizm ruhiy holatini rasm bilan tasvirla deyishsa, xayolimga shu tasvir gavdalanadi. Unda vujud ma’nosizlik aziyatidan qochishga urinyapti.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": {
+        "type": "photo",
+        "src": "photos/photo_4@09-10-2025_21-41-42_thumb.jpg",
+        "href": "photos/photo_4@09-10-2025_21-41-42.jpg"
+      },
+      "isJoined": false
+    },
+    {
+      "id": "message130",
+      "type": "service",
+      "text": "Voice chat (6027 seconds)",
+      "date": null
+    },
+    {
+      "id": "message131",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "09.10.2025 22:23:37 UTC+05:00",
+      "time": "22:23",
+      "text": "<a href=\"\" onclick=\"return ShowHashtag(&quot;suhbat&quot;)\">#suhbat</a>*4<br><br>2-boʻlim: Nihilizm sabab va oqibatlari<br><br>Muhokama qilingan boblar:<br><br>“Haqso‘ng”ning paydo bo‘lishi<br>Umumijtimoiy horg‘inlik<br>Seroblik qa’riga gʻarq boʻlmoq<br>Nihilizm dard sifatida<br>Haqiqat va Texnogipnoz<br><br>9-oktabr 2025-yil<br><br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": {
+        "type": "file",
+        "src": "files/record (3).ogg",
+        "title": "kitoblab – 2.1-bo’lim: Nihilizm. Sabab va oqibatlar",
+        "size": "1:23:54"
+      },
+      "isJoined": false
+    },
+    {
+      "id": "message132",
+      "type": "message",
+      "author": "Unknown",
+      "date": "09.10.2025 22:26:04 UTC+05:00",
+      "time": "22:26",
+      "text": "Muhokama qilingan matn xomaki boʻlgani sababli kanaldan oʻchirib guruhga yuklab qoʻydim. Suhbatni eshitmoqchi boʻlganlar bemalol kirib koʻrsa boʻladi:<br><a href=\"https://t.me/kitoblab_hub\">@kitoblab_hub</a>",
+      "replyTo": "message131",
+      "media": null,
+      "isJoined": true
+    },
+    {
+      "id": "message134",
+      "type": "message",
+      "author": "Unknown",
+      "date": "09.10.2025 22:39:48 UTC+05:00",
+      "time": "22:39",
+      "text": "<a href=\"https://t.me/erkinfikrlar23/691\">https://t.me/erkinfikrlar23/691</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": true
+    },
+    {
+      "id": "message-11",
+      "type": "service",
+      "text": "10 October 2025",
+      "date": null
+    },
+    {
+      "id": "message135",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "10.10.2025 11:05:08 UTC+05:00",
+      "time": "11:05",
+      "text": "Tarjima bo’layotgan kitobda muallif Nitshega ko’p murojaat qiladi. Sababi Nitshe — nihilizm falsafasining chuqur bilimdonidir.<br><br>Nitshe bo’yicha qilingan ikkita sifatli turkum darslarni tavsiya qilmoqchiman. Bu orqali Nitshening g’oyalari bilan yaqindan tanishish mumkin:<br><br>1. <a href=\"https://t.me/subnazar\">Jamshid Muslimov</a>dan:<strong> Nitshe. Zardusht tavallosi</strong> turkumi.<strong> </strong>YouTube kanaldan <a href=\"https://youtube.com/playlist?list=PL-iMclxhz2Aw7FoNYD85dLhgp9gQCj5fF&amp;si=8XwF7MKaN8otZA2H\">tinglang</a>. Kitob matni ham <a href=\"https://t.me/kitoblab/136\">yuklandi</a>.<br><br>2. <a href=\"https://t.me/siyosat_falsafasi\">Avazbek Isoboyev</a>dan <strong>Nitshe falsafasi </strong>turkumi. YouTube kanaldan <a href=\"http://www.youtube.com/@Eskatalogiya\">tinglang</a>.<br><a href=\"https://youtu.be/rWLXcvhBJD0?si=fOQQHSwjWO0i-mPy\">1-qism</a> <br><a href=\"https://youtu.be/K5KwxnPs840?si=mwkJrEmon1kKp7Yw\">2-qism</a><a href=\"https://t.me/Siyosat_Falsafasi/1992\"> </a><br><a href=\"https://youtu.be/Jid9ztTLt9g?si=0b3ERKywkKR27C2O\">3-qism</a><br><br>Xos guruhda esa doimiy qo’shimcha darslar ham qilinadi. Ayniqsa kitobda ko’p iqtibos keltirilgan <a href=\"https://t.me/Siyosat_Falsafasi/2004\">“Hokimiyatga bo’lgan iroda”</a> kitobi bo’yicha.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message136",
+      "type": "message",
+      "author": "Unknown",
+      "date": "10.10.2025 11:08:45 UTC+05:00",
+      "time": "11:08",
+      "text": "Zardusht tavallosi. Fridrix Vilhelm Nitshe. <br>Tarjimon: Ibrohim G’ofurov<br>Yangi asr avlodi nashriyoti. 2007<br><br>manba: <a href=\"ziyouz.com\">ziyouz.com</a> kutubxonasi<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": {
+        "type": "file",
+        "src": "files/Зардушт таваллоси.pdf",
+        "title": "Зардушт таваллоси.pdf",
+        "size": "9.9 MB"
+      },
+      "isJoined": true
+    },
+    {
+      "id": "message137",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "10.10.2025 23:25:07 UTC+05:00",
+      "time": "23:25",
+      "text": "Dazayn tushunchasi va muallif Haydegger haqida <a href=\"https://youtube.com/playlist?list=PLRpSwPAtGltFU0uAX1r4wwp0P2Am5GatM&amp;si=jyRNVd6PQckBqwhM\">dars.</a> <br><br><a href=\"https://t.me/kitoblab\">@kitoblab</a>",
+      "replyTo": "message112",
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-12",
+      "type": "service",
+      "text": "12 October 2025",
+      "date": null
+    },
+    {
+      "id": "message138",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "12.10.2025 13:21:56 UTC+05:00",
+      "time": "13:21",
+      "text": "2-bo’limning ushbu qolgan boblari bo’yicha ertaga Dushanba kuni 20:00 da suhbat qilamiz:<br><br>• Jamiyat, Majburiyat va Burch<br>• Darz ketmish Jamiyat<br>• Axloq, Ma’no va Iymon sakrovi<br>• Nihilist nolasi<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message139",
+      "type": "service",
+      "text": "Voice chat scheduled for 13.10.2025 20:00:00",
+      "date": null
+    },
+    {
+      "id": "message-13",
+      "type": "service",
+      "text": "13 October 2025",
+      "date": null
+    },
+    {
+      "id": "message140",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "13.10.2025 19:30:31 UTC+05:00",
+      "time": "19:30",
+      "text": "Yarim soatda boshlaymiz. Biror nima yeb, qorinni toʻqlab olinglar)",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message141",
+      "type": "service",
+      "text": "Voice chat",
+      "date": null
+    },
+    {
+      "id": "message155",
+      "type": "service",
+      "text": "Voice chat (4823 seconds)",
+      "date": null
+    },
+    {
+      "id": "message156",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "13.10.2025 21:29:02 UTC+05:00",
+      "time": "21:29",
+      "text": "<a href=\"\" onclick=\"return ShowHashtag(&quot;suhbat&quot;)\">#suhbat</a>*5<br><br>2-bo’lim: Nihilizm sabab va oqibatlari<br><br>• Jamiyat, Majburiyat va Burch<br>• Darz ketmish Jamiyat<br><br>Matn: Islom va nihilizm. Dardim va davom. <br>Muallif: Yusuf Ponders<br><br>13-oktabr 2025-yil<br><br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": {
+        "type": "file",
+        "src": "files/record (4).ogg",
+        "title": "kitoblab – 2.2-boʻlim: Nihilizm. Sabab va oqibatlar",
+        "size": "1:12:03"
+      },
+      "isJoined": false
+    },
+    {
+      "id": "message157",
+      "type": "message",
+      "author": "Unknown",
+      "date": "13.10.2025 21:32:46 UTC+05:00",
+      "time": "21:32",
+      "text": "• Axloq, Ma’no va Iymon sakrovi<br>• Nihilist nolasi<br><br>Ushbu ikkita bobga ulgurmadik. Keyingi suhbatda qilamiz.<br><br>Savollar, fikrlar bo’lsa, izoh qismida yozib qoldiring. <br><br>Matnni <a href=\"https://t.me/kitoblab_hub\">@kitoblab_hub</a>’ga yuklab qo’yaman<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": true
+    },
+    {
+      "id": "message-14",
+      "type": "service",
+      "text": "14 October 2025",
+      "date": null
+    },
+    {
+      "id": "message158",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "14.10.2025 10:40:33 UTC+05:00",
+      "time": "10:40",
+      "text": "<a href=\"\" onclick=\"return ShowHashtag(&quot;vocab&quot;)\">#vocab</a><br><br>private — o’zel (özel)<br><br><strong>O’zel</strong> so’zi turkiy tillar oilasiga mansub bo’lib, shaxsiy, nojamoat (<em>non-public</em>), mahramiyat ma’nolarini beradi.<br><br><strong>Private</strong> so’zini shaxsiy (<em>personal</em>), xavfsiz (<em>safe, secure</em>), yashirin (<em>secret</em>) deb noto’g’ri tarjima qilgandan ko’ra, yangi so’zlarni qidirib, <strong>O’ZEL</strong> turkiy so’ziga qaror qildim.<br><br><strong>Privacy</strong>’ni ruslar ham yuqoridagi yaqin ma’nolar bilan emas, balki <strong>Приватность</strong> deb tarjima qilishgan. Biz esa turkiy variantlardan foydalanishda boy va erkinmiz :)<br><br>Misollar:<br>o’zel maktab — private school<br>o’zel hayot — private life<br>o’zel manzil — private address<br>o’zellik — privacy<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message159",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "14.10.2025 11:17:47 UTC+05:00",
+      "time": "11:17",
+      "text": "Nitshening “Latif fan” asaridagi 125-aforizm — Telba [Der tolle Mensch | The Madman]<br><br>Tarjima matnini ham tayyorlab tashlayman.<br><br>Juda qiziq tushuncha. Kontekstni tushunish uchun Zardusht tavallosi <a href=\"https://t.me/kitoblab/135\">turkumi</a> bilan tanishib chiqish kerak.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": {
+        "type": "photo",
+        "src": "photos/photo_5@14-10-2025_11-17-47_thumb.jpg",
+        "href": "photos/photo_5@14-10-2025_11-17-47.jpg"
+      },
+      "isJoined": false
+    },
+    {
+      "id": "message160",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "14.10.2025 14:39:30 UTC+05:00",
+      "time": "14:39",
+      "text": "<a href=\"\" onclick=\"return ShowHashtag(&quot;vocab&quot;)\">#vocab</a><br><br>insight — <a href=\"https://izoh.uz/word/tamiz\">tamiz</a><br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-15",
+      "type": "service",
+      "text": "24 October 2025",
+      "date": null
+    },
+    {
+      "id": "message162",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "24.10.2025 21:32:44 UTC+05:00",
+      "time": "21:32",
+      "text": "Iloh insoniyat tarixida hamisha barhayot xususiyat bo‘lib kelgan va bugungi kunda ham shunday. Qolaversa, Jeymi Terner \"teistik e’tiqod <em>to’g’ri asosiy</em> bo’la oladi\" degan g‘oyani himoya qiluvchi ishonchli dalillarni keltirgan. Ya’ni, Xudoga ishonish dalillovsiz ham ratsional bo‘lishi mumkin. U buni to‘la shakldagi Islom e’tiqodiga nisbatan ham qo‘llash mumkinligini ta’kidlaydi.<br><br>Qisqasi, bu g‘oya bizda \"asosiy ishonchlar\" [<em>basic beliefs</em>], ya’ni boshqa hech bir ishonchga tayanmamish ishonchlar mavjudligi haqidagi tushunchaga borib taqaladi. Ma’lum epistemik shartlar bajarilganda, bu asosiy ishonchlar \"to‘g‘ri asosiy\" [<em>properly basic</em>] bo‘lishi mumkin. <br><br>Boshqacha aytganda, ular ham asosiy, ham ratsional hisoblanadi. Terner <em>Sapience Institute</em> tomonidan nashr etilgan ushbu maqolasida ushbu epistemik tamoyillarni teistik va islomiy e’tiqodga qo‘llash bo‘yicha keng mulohaza yuritgan:<br><br>\"Isbot yuki kimning yelkasida? Isloh etilmish Epistemologiya va to'g'ri-asosiy Islom e'tiqodi.\" <a href=\"https://www.sapienceinstitute.org/who-shoulders-the-burden-of-proof-reformed-epistemology-and-properly-basic-islamic-belief\">Havola</a>. <br><br>© Islom va Nihilizm. Dardim va davom | Nega Ilohga ishonish kerak? bobidan | Yusuf Ponders<br><br>Kattaroq va muhim maqola ekan. Tarjimasini, nasib bo'lsa, tayyorlab tashlayman keyinchalik.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message163",
+      "type": "message",
+      "author": "Unknown",
+      "date": "24.10.2025 21:33:06 UTC+05:00",
+      "time": "21:33",
+      "text": "\"Isbot yuki kimning yelkasida? Isloh etilmish Epistemologiya va to'g'ri-asosiy Islom e'tiqodi.\" Jeymi Terner<br><br> <a href=\"https://www.sapienceinstitute.org/who-shoulders-the-burden-of-proof-reformed-epistemology-and-properly-basic-islamic-belief\">Havola</a>. Kattaroq va muhim maqola ekan. Tarjimasini, nasib bo'lsa, tayyorlab tashlayman keyinchalik.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": {
+        "type": "photo",
+        "src": "photos/photo_6@24-10-2025_21-33-06_thumb.jpg",
+        "href": "photos/photo_6@24-10-2025_21-33-06.jpg"
+      },
+      "isJoined": true
+    },
+    {
+      "id": "message-16",
+      "type": "service",
+      "text": "26 October 2025",
+      "date": null
+    },
+    {
+      "id": "message164",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "26.10.2025 17:44:01 UTC+05:00",
+      "time": "17:44",
+      "text": "2-bo’lim yakuni. Nihilizmning sabab va oqibatlari:<br>- Axloq, Ma’no va Iymon sakrovi<br>- Nihilist nolasi<br><br>Ushbu ikki bob bo’yicha Dushanba 27-oktabr soat 20:00 da suhbat qilamiz.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-17",
+      "type": "service",
+      "text": "27 October 2025",
+      "date": null
+    },
+    {
+      "id": "message167",
+      "type": "service",
+      "text": "Voice chat scheduled for 27.10.2025 20:00:00",
+      "date": null
+    },
+    {
+      "id": "message182",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "27.10.2025 01:01:25 UTC+05:00",
+      "time": "01:01",
+      "text": "Suhbatga 19 soat qoldi. Ikki bob matnini olindan tashlab qo’ydim. Matn bilan tanishib chiqib, mujmal va tushunarsiz o’rinlarni izohlar qismida yozinglar.<br><br>Har bir tanqid, e’tiroz, taklif qadrli.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message183",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "27.10.2025 20:26:00 UTC+05:00",
+      "time": "20:26",
+      "text": "Suhbatni erta kechga koʻchiramiz",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message184",
+      "type": "service",
+      "text": "Voice chat scheduled for 28.10.2025 20:00:00",
+      "date": null
+    },
+    {
+      "id": "message-18",
+      "type": "service",
+      "text": "28 October 2025",
+      "date": null
+    },
+    {
+      "id": "message185",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "28.10.2025 17:59:39 UTC+05:00",
+      "time": "17:59",
+      "text": "Biror nima yevolinglar suhbatgacha, 20:00 da boshlaymiz bugun 🙂",
+      "replyTo": "message168",
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message188",
+      "type": "service",
+      "text": "Voice chat",
+      "date": null
+    },
+    {
+      "id": "message189",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "28.10.2025 19:56:28 UTC+05:00",
+      "time": "19:56",
+      "text": "Vaqti borlar, kiramiz. Tez orada boshlaymiz",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message190",
+      "type": "message",
+      "author": "Unknown",
+      "date": "28.10.2025 20:04:23 UTC+05:00",
+      "time": "20:04",
+      "text": "Oldimdagi odam ham keta qolmadi 😐<br>Endi suhbatni faqat ofisda qilaman shekilli",
+      "replyTo": null,
+      "media": null,
+      "isJoined": true
+    },
+    {
+      "id": "message191",
+      "type": "service",
+      "text": "Voice chat (6164 seconds)",
+      "date": null
+    },
+    {
+      "id": "message192",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "28.10.2025 23:07:27 UTC+05:00",
+      "time": "23:07",
+      "text": "<a href=\"\" onclick=\"return ShowHashtag(&quot;suhbat&quot;)\">#suhbat</a>*6<br><br>2-bo’lim yakuni: Nihilizmning sabab va oqibatlari.<br><br>- Axloq, Ma’no va Iymon sakrovi<br>- Nihilist nolasi<br><br>- Nitshe “Xudoning o’limi” metaforasi. <br>- “Shunga yarasha endi o‘zimiz ilohlarga aylanishimiz kerak bo‘lib qolmaydimi?”<br><br>Matn: Islom va nihilizm. Dardim va davom. <br>Muallif: Yusuf Ponders<br><br>28-oktabr 2025-yil<br><br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": {
+        "type": "file",
+        "src": "files/record (5).ogg",
+        "title": "Kitoblab – 2-boʻlim yakuni: \"Nihilist nolasi\"",
+        "size": "1:27:21"
+      },
+      "isJoined": false
+    },
+    {
+      "id": "message193",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "28.10.2025 23:39:46 UTC+05:00",
+      "time": "23:39",
+      "text": "Piyoda sayr qilib suhbatlashish yoqdi. Ham piyoda yurganda stresslar chiqib ketadi, ham jismonan foydali. Ko’chani shovqini ham deyarli eshitilmas ekan suhbat mobaynida.<br><br>Keyingi suhbatlarni ham piyoda sayr qilgan holatda qilib ko’raman.",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-19",
+      "type": "service",
+      "text": "29 October 2025",
+      "date": null
+    },
+    {
+      "id": "message195",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "29.10.2025 15:58:15 UTC+05:00",
+      "time": "15:58",
+      "text": "Aytish mumkinki, ko‘plab falsafiy g‘oyalarning o‘zi asta-sekinlik bilan nihilizm tomonga burilib, (antinatalizm, jonga qasd yoki ikkalasi orqali ifodalanmish) aksilhayot kayfiyatni yuzaga keltirdi. Bu mavzu yillar davomida kuchayib boraverdi va bugungi kunga kelib o‘z hayotiga nuqta qo‘yayotgan insonlar sonida o‘z aksini topmoqda. <br><br>JSSTning ma’lumotlariga ko‘ra, <em>har yili</em> dunyoda 800,000 ga yaqin odam o‘z joniga qasd qiladi; har bir muvaffaqiyatli urinish ortida esa yana ko‘plab muvaffaqiyatsiz urinishlar yotadi . Tasavvur qiling, bu har yili Lids kabi katta shahar aholisi o‘z joniga qasd qiladi va yana ikkitadan to‘rttagacha xuddi shunday shahar aholisi bunga urinib ko‘rib, eplay olmaydi degani. Bu bizga ushbu jiddiy baxtsizlikning keng tarqagani va ko‘pchilik uchun hayot yashashga arzimas bo‘lib qolganini ko‘rsatadi. <br><br><a href=\"http://youtube.com/post/UgkxiI4qOBiAiirhEkI6j3D4LpOAJcU3urXm?si=k8JCppXnOE0DLATr\">Buning ustiga, o‘z joniga qasd qilishni o‘ylaydigan, istaydigan, ammo ehtimol nimadir xato ketib qolishi yoki og‘riqli bo‘lishidan qo‘rqib bunga urinmaydigan insonlar ham yo‘q emas.</a> <br><br>Ushbu insonlar ham hayotni yashashga shunchalik arzimas deb hisoblashadiki, bu ularda qasd kabi keskin ishga qo‘l urishga xohish uyg‘otadi. Qolaversa, dunyoning ko‘p mamlakatlarida ma’lumotlar sifati va to‘plash usullari yetarli emas. Shuning uchun haqiqiy ko‘rsatkichlar bizga ma’lum bo‘lganidan ham yomonroq bo‘lishi mumkin. Har holda ushbu mavjud raqamlar ham oz emas va bu allaqachon tashvishlanarli. <br><br>Xullas, jonga qasd muammosi, depressiya va nihilizm masalalari orasidagi bog‘liqlik yo hayotning ma’nosiz, maqsadsiz ekani yo umuman yashashga arzimasligi haqidagi fikrga borib taqaladi.<br><br>© Islom va Nihilizm. Dardim va davom | Nihilizm ahamiyati bobidan | Yusuf Ponders<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-20",
+      "type": "service",
+      "text": "1 November 2025",
+      "date": null
+    },
+    {
+      "id": "message197",
+      "type": "service",
+      "text": "Voice chat scheduled for 01.11.2025 20:00:00",
+      "date": null
+    },
+    {
+      "id": "message198",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "01.11.2025 10:58:48 UTC+05:00",
+      "time": "10:58",
+      "text": "“3-boʻlim: Toʻsiqlarni yengish” boʻyicha bugun soat 20:00 da suhbat qilamiz.<br><br>Boʻlimdagi boblar:",
+      "replyTo": "message34",
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message199",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "01.11.2025 19:40:57 UTC+05:00",
+      "time": "19:40",
+      "text": "Bugun 3-bo’lim tahririni to’liq tugatish uchun suhbatni ertaga shu soatga ko’chiramiz.",
+      "replyTo": "message198",
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message200",
+      "type": "service",
+      "text": "Voice chat scheduled for 02.11.2025 20:00:00",
+      "date": null
+    },
+    {
+      "id": "message-21",
+      "type": "service",
+      "text": "2 November 2025",
+      "date": null
+    },
+    {
+      "id": "message217",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "02.11.2025 15:14:32 UTC+05:00",
+      "time": "15:14",
+      "text": "Qanday to‘siqlar?<br>Nima uchun Ilohga ishonish kerak?<br>Empirik dalil yo‘q?<br>O‘ta ko‘p xudolar va dinlar!<br><br>“To‘siqlarni yengish” nomli 3-bo‘limning yarmi.<br><br>Matn bilan tanishib chiqinglar. Bugun ham suhbat qilolmaymiz :)<br>Dushanba ertaga ishdan keyin harakat qilaman “piyoda-suhbat” qilishga.",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-22",
+      "type": "service",
+      "text": "3 November 2025",
+      "date": null
+    },
+    {
+      "id": "message218",
+      "type": "service",
+      "text": "Voice chat scheduled for 03.11.2025 20:00:00",
+      "date": null
+    },
+    {
+      "id": "message219",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "03.11.2025 19:52:48 UTC+05:00",
+      "time": "19:52",
+      "text": "20:30 da boshlaymiz, nasib boʻlsa. Piyoda suhbat. Biror nima yeb olinglar, choʻzilishi mumkin :)",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message220",
+      "type": "service",
+      "text": "Voice chat",
+      "date": null
+    },
+    {
+      "id": "message221",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "03.11.2025 20:29:47 UTC+05:00",
+      "time": "20:29",
+      "text": "Boshladik. Ovozni sozlab olib, matnga kirishamiz.",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message223",
+      "type": "service",
+      "text": "Voice chat (5255 seconds)",
+      "date": null
+    },
+    {
+      "id": "message224",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "03.11.2025 22:05:57 UTC+05:00",
+      "time": "22:05",
+      "text": "<a href=\"\" onclick=\"return ShowHashtag(&quot;suhbat&quot;)\">#suhbat</a>*7<br><br>Qanday to‘siqlar?<br>Nima uchun Ilohga ishonish kerak?<br>Empirik dalil yo‘q?<br>O‘ta ko‘p xudolar va dinlar!<br><br>Nihilizmdan qutilish uchun, bu dardning davosini qoʻllashga toʻsqinlik qiladigan e’tirozlar muhokamasi<br><br>Matn: Islom va nihilizm. Dardim va davom. <br>Muallif: Yusuf Ponders<br><br>3-noyabr 2025-yil<br><br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": {
+        "type": "file",
+        "src": "files/record (6).ogg",
+        "title": "Kitoblab – 3.1-boʻlim: Toʻsiqlarni yengish",
+        "size": "1:19:22"
+      },
+      "isJoined": false
+    },
+    {
+      "id": "message-23",
+      "type": "service",
+      "text": "12 November 2025",
+      "date": null
+    },
+    {
+      "id": "message225",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "12.11.2025 22:09:16 UTC+05:00",
+      "time": "22:09",
+      "text": ".…Avvalroq aytganimdek, inson o‘z tabiatiga ko‘ra maqsaddan qo‘zg‘aluvchi mavjudot hisoblanadi. Psixolog va faylasuf Viktor Franklning ta’kidlashicha, “insonning ma’no izlovi hayotdagi uning asosiy rag‘batidir va bu instinktiv mayllar qiluvchi ‘ikkilamchi ratsionallashtiruv’ emas.*” <br><br>Ushbu kitob davomida e’tibor qaratganim nihilizm faqat nihilizmning asosli falsafiy tushunchasi emas, balki o‘zini ma’nosizlik hissi sifatida ifoda etuvchi psixologik sharoit, patologik holat va zehniy charchoqdir. Agar Frankl insoniyatga bergan bahosida haq bo‘lsa, bundan kelib chiqadiki, bemor o‘z dardining davosiga butun vujudi bilan talpinganidek, nihilizmga duchor bo‘lgan odam ham undan qutulishga intiladi. <br><br>Dunyoda diniy e’tiqod susayib, ateizm/agnostisizm kuchayishi bilan ularning nihilizmdan qochishida va oldingi an’analarini rad etish evaziga paydo bo‘lgan bo‘shliqlarni to‘ldirishga urinishida diniy atvor namoyishini ko‘rish mantiqqa muvofiq holat….<br><br>© Islom va Nihilizm. Dardim va davom | Nihilist nolasi bobidan | Yusuf Ponders<br><br>* Frankl V. E., Man’s Search for Meaning, (London: Rider, 2004), p.105.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message226",
+      "type": "service",
+      "text": "Voice chat scheduled for 13.11.2025 20:00:00",
+      "date": null
+    },
+    {
+      "id": "message227",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "12.11.2025 22:17:50 UTC+05:00",
+      "time": "22:17",
+      "text": "Ha, suhbat qilmaganimizga ham ancha bo’ldi. Ertaga soat 20:00 da piyoda-suhbatni davom ettirib, 3-bo’limni — “To’siqlarni yengish”ni — tamomlab qo’yamiz, nasib bo’lsa.",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-24",
+      "type": "service",
+      "text": "13 November 2025",
+      "date": null
+    },
+    {
+      "id": "message228",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "13.11.2025 15:47:20 UTC+05:00",
+      "time": "15:47",
+      "text": "Suhbat keyinga qoldirildi :)<br><br>Ushbu suhbatga qatnashinglar:<br><a href=\"https://t.me/subnazar/2647\">https://t.me/subnazar/2647</a><br><br>Kitob havolasi: <a href=\"https://mutolaa.com/book/falsafa\">https://mutolaa.com/book/falsafa</a>",
+      "replyTo": "message227",
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message230",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "13.11.2025 19:55:03 UTC+05:00",
+      "time": "19:55",
+      "text": "...Unutmang, qadriyatlar iyerarxiyasi faqat siz qadrlaydigan narsalarni emas, balki qadrlamaydiganingiz narsalarni ham o’z ichiga oladi (ular shunchaki pillapoyaning quyi qismida joylashadi). Ishonmaslik orqali siz mohiyatan Xudoni boshqa narsalardan pastroq qo‘yyapsiz. Alloh Qur’onda shunday deydi: <strong>“Havoyi nafsini o‘ziga xudo qilib olgan kimsani ko‘rdingizmi?”</strong> Bu ular o‘z istaklarini mavjud hamma narsadan ustun qo‘yishadi degani. Axir Nitshe kabilar shuni aytishmaganmidi:<br><br><em>“Xudo o’ldi! Xudo o’lik holida qoladi! Va biz uni o’ldirdik. Qanday yupatarkanmiz o’zimizni, jamiki qotillarning qotillarini! Borliqda mavjud eng muqaddas, eng qudratli narsa qattol xanjarimiz ostida qonga botdi: bu qonni bizdan kim tozalarkin? Qay suv bilan poklaymiz o’zimizni? Qanaqangi kafforat marosimlarini, qanaqangi muqaddas o’yinlarni kashf qilamiz o’zimiz uchun? Bu qilmishning ko’lami bizga og’irlik qilmasmikan? Shunga yarasha o’zimiz ilohlarga aylanishimiz kerak bo’lib qolmaydimi?\"</em><br><br>Hozir aynan shu ro‘y bermayaptimi axir? Insoniyat shunchalik o’ch bo’lib ishtirok etayotgan bu ulkan marosimlarni o‘ylamasdan ilojim yo‘q. <br><br>Mehrob sahna bilan, va’zxonlar esa tinglovchini shavqqa to’ldirishga intiluvchi musiqachilar bilan o’rin almashdi. Ular ta’sirchan musiqa, quvnoq tomosha va so‘zlarni taqdim etadilar, toki ularni yod olganlar uchun amr va yo‘riq vazifasini o‘tasin. <br><br>Yoshlar xonalarini sevimli san’atkorlarining ziyoratgohiga aylantirib, devorlariga plakatlar va fanatlik buyumlarini yopishtirishadi. O‘z kumirlarini ijtimoiy tarmoqlarda kuzatib borishadi va ularni himoya qilishga doim shay turishadi. Ularning siyosat masalasidagi fikrlarini xuddi Ilohdan yuborilgan tosh lavhalar kabi qabul qilishadi. Xo‘sh, bu yangi payg‘ambarlar nimani va’z qilishyapti? Modernlashgan insonning aqidasi (ishonchlari) nimadan iborat?<br><br>© Islom va Nihilizm. Dardim va davom | Inson zoti uchun mustahkam poydevor bobidan | Yusuf Ponders<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-25",
+      "type": "service",
+      "text": "14 November 2025",
+      "date": null
+    },
+    {
+      "id": "message231",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "14.11.2025 15:22:15 UTC+05:00",
+      "time": "15:22",
+      "text": "<a href=\"https://t.me/farengeyt_press/75\">https://t.me/farengeyt_press/75</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message233",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "14.11.2025 22:53:36 UTC+05:00",
+      "time": "22:53",
+      "text": "Insonga ozuqa, boshpana va jamoat kabi ko‘plab ehtiyojlar turtki beradi, qolaversa biz maqsad [ma’no, mazmun va harakat yoki harakatsizlikning sababi] orqali ham sezilarli harakatga kelamiz.<br><br>©️Islom va nihilizm. Dardim va davom | Nihilizm falsafasi bobidan | Yusuf Ponders<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-26",
+      "type": "service",
+      "text": "16 November 2025",
+      "date": null
+    },
+    {
+      "id": "message234",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "16.11.2025 13:30:07 UTC+05:00",
+      "time": "13:30",
+      "text": "— Islom xavfli, mendan soʻrang, Yamandanman.<br>— Islom insoniyatning yagona kelajagi, mendan soʻrang, Angliyadanman<br><br><a href=\"http://youtube.com/post/Ugkx5dMepXzAIs9yt2rtKjH_rXx6No20AyEB?si=YZaH3VqRM6xiqbiL\">http://youtube.com/post/Ugkx5dMepXzAIs9yt2rtKjH_rXx6No20AyEB?si=YZaH3VqRM6xiqbiL</a><br><br><em>“Agar yuz o‘girsangizlar, sizlardan boshqa qavmni almashtirib qo‘yadi. Keyin ular sizlarga o‘xshagan bo‘lmaydilar.” (c) Qur’on 47:38</em><br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message235",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "16.11.2025 18:54:31 UTC+05:00",
+      "time": "18:54",
+      "text": "<a href=\"\" onclick=\"return ShowHashtag(&quot;vocab&quot;)\">#vocab</a> <br><br>dovtalab — volontyor uchun fors-tojikcha muqobil<br><br>manbalar:<br>1. ГУЛЧИН. Избранные статьи по таджикской лексикологии:<br>сборник научных статей / Э.К. Собиров – Москва: Институт языкознания РАН, 2021<br>2. Buxoro shevasida “davtalab” deb qo’llaniladi. Kam ishlatilyapti lekin, faqat kattalar tomonidan.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": {
+        "type": "photo",
+        "src": "photos/photo_7@16-11-2025_18-54-31_thumb.jpg",
+        "href": "photos/photo_7@16-11-2025_18-54-31.jpg"
+      },
+      "isJoined": false
+    },
+    {
+      "id": "message-27",
+      "type": "service",
+      "text": "17 November 2025",
+      "date": null
+    },
+    {
+      "id": "message236",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "17.11.2025 11:06:01 UTC+05:00",
+      "time": "11:06",
+      "text": "<em>…Bir savol boshqasidan ko‘ra dolzarbroq ekanini qanday aniqlash haqida so‘rashsa, u olib keladigan amalga qarab degan bo’lardim. Men hech ham biror kishi ontologik dalil uchun o‘libdi deyishganini eshitmaganman. Muhim fanniy haqiqatga ega bo‘lgan Galiley bu haqiqat uning hayotiga xavf solishi bilanoq undan osongina voz kechib qo’ya qoldi. Ma’lum ma’noda u to‘g‘ri qildi ham. Bu haqiqat gulxanda yonishga arzimas edi. Yer yoki quyosh bir-birining atrofida aylanishi bu bir ajoyib ahamiyatsiz masala. To‘g‘risi, bu behuda savol. Aksincha, ko‘pchilik hayot yashashga arzimaydi deb o‘ylagani uchun o‘ladi. Qolganlari esa ularga, paradoksal tarzda, yashash uchun sabab beruvchi g‘oya yoki xayollar yo’lida halok bo‘lishadi (yashash uchun sabab deyilmish narsa ayni paytda o‘lish uchun ham ajoyib sababdir). Shunday ekan, hayotning mazmuni masalalarning eng dolzarbidir degan xulosaga kelaman.</em><br><br>Alber Kamyu, Sizif afsonasi (London: Penguin Books, 2005), 1-bet.<br><br>© Islom va Nihilizm. Dardim va davom | Inson zoti uchun mustahkam poydevor bobidan | Yusuf Ponders<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message237",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "17.11.2025 22:47:36 UTC+05:00",
+      "time": "22:47",
+      "text": "Hech bir amal zoye ketmaydi. Bu dunyodagi har bir fidokorlik oxiratga sarmoya hisoblanadi. O‘z vaqtini ota-onasiga, yoshligida parvarish-u ta’minotini qilgan kishilarga sarflab, vaqti bekorga ketayotgandek his qilish iymonli kishi uchun imkonsiz. Mazkur burchingizni zimmaga olish uning farzandlaringizga ham o‘tishiga va keksalikda suyuklilarning g‘amxo‘rligidan bahramand bo‘lish sug‘urtasidir. <br><br>Bir-biriga nisbatan ushbu burch va fidoyilik hissi yana bir bor iymon keltiruvchilar uchun ulkan ma’no va maqsad manbayi hisoblanadi.<br>Bu burch hissi iymonli kishining xayriya ishlariga ham ta’sir o‘tkazmay qolmaydi. O‘rtacha daromadi kam bo‘lishiga qaramay, ma’lumotlar musulmonlarning eng saxiy jamoatlardan biri ekanini ko‘rsatadi:<br><br>“Oxirgi tadqiqotlar shuni ko‘rsatadiki, musulmonlar boshqa diniy guruhlarga qaraganda ko‘proq xayriya qilishadi. Jon boshiga o‘rtacha £371 dan xayriya qilgan musulmonlar diniy guruhlar orasida birinchi o‘rinni egalladi. O‘tgan yilgi xayriyalarda ateistlar o‘rtacha £116 dan xayriya qilishgan deb xabar beradi The Times. ICM so‘rovnomasi aniqlashicha, yahudiy xayriyachilar jon boshiga o‘rtacha £270, rim-katoliklar o‘rtacha £178 dan sal ko‘proq, nasroniylar £178 dan sal kamroq va protestantlar £202 xayriya qilgan.” *1<br><br>Musulmonlar nafaqat boshqa diniy guruhlarga qaraganda deyarli ikki baravar ko‘proq xayriya qilmoqda, balki ular ateist jamoalarga qaraganda 300% ustunlik ko‘rsatmoqda! Bu xalqaro diniy xayriyalar bilan cheklanib qolmaydi. Aslida, ma’lumotlarga ko‘ra, musulmonlar odatda o‘z mahalliy jamoatlariga ko‘proq xayriya qilishadi va ham diniy, ham diniy bo‘lmagan maqsadlarda ko‘maklashishga tayyorlar:<br><br>“Amerikalik musulmonlar xalqaro maqsadlarga ko‘proq e’tibor berishga moyil degan islomofobik qarashlarning aksiga — xayriyalarining atigi 15 foizidan tashqari qolgan 85 foizi Amerika xayriya tashkilotlariga yo‘naltirilgan. O‘rtacha amerikalik xo‘jalikdan kambag‘alroq bo‘lishlariga qaramay, musulmon amerikaliklar xayriya va dovtalablik [ya’ni volontyotlik] ishlarida o‘rtacha xo‘jalikdan ko‘proq ishtirok etishgan.<br><br>Tadqiqot shuni ko‘rsatadiki, nomusulmonlarga qaraganda ham diniy, ham nodiniy maqsadlarga musulmonlar ko‘proq xayriya qilishadi. O‘rtacha hisobda, musulmon amerikaliklar xayriya uchun $3200, umumiy aholi esa $1905 sarflagan.” *2<br><br>Xayriyaning bu darajasi jamoatlar ichra rishta paydo qilishda muhim rol o‘ynaydi. Iymonlilar anglashadiki, qo‘shnilari va atrofdagilar oldida ularda Xudo bergan burch mavjud. Bundayin xulqqa mehmon bo‘lganlar esa buni chindan xush ko‘rishadi. Islom hozirgi kunda dunyodagi eng tez o‘sayotgan dinlardan biri ekanining sababi shu ekaniga ishonaman. Nafaqat yuqori tug‘ilish darajasi tufayli (garchi bu ham bir omil bo‘lsa-da), balki dinga o‘tish sababli ham. *3<br><br>*1 “Muslims 'Give Most Charity', Ahead Of Christians, Jews And Atheists, Poll Finds”, The Huffington Post UK, 3 October 2013<br><br>*2 Muslim Americans: A Growing Force in Philanthropy”, Lilly Family School of Philanthropy, 7 October 2021<br><br>*3 “The Changing Global Religious Landscape”, Pew Research Centre, 5 April 2017<br><br><br>© Islom va Nihilizm. Dardim va davom | Burch va Mas’uliyat bobidan | Yusuf Ponders<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-28",
+      "type": "service",
+      "text": "18 November 2025",
+      "date": null
+    },
+    {
+      "id": "message238",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "18.11.2025 10:15:52 UTC+05:00",
+      "time": "10:15",
+      "text": "Vatandosh-TV dagi bu post haqida Fikratda yaxshi falsafiy suhbat boʻlibdi. Koʻrguli. Muhim:<br><br><br><a href=\"https://youtu.be/-6zOgktXqXY?si=jBBR48DT3GhRdASX\">https://youtu.be/-6zOgktXqXY?si=jBBR48DT3GhRdASX</a><br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": "message195",
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-29",
+      "type": "service",
+      "text": "20 November 2025",
+      "date": null
+    },
+    {
+      "id": "message239",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "20.11.2025 18:16:40 UTC+05:00",
+      "time": "18:16",
+      "text": "Suqrot bo'yicha fundamental va qiziqarli suhbat bo'lyapti. Qoldirmay ko'rishni tavsiya qilaman:<br><br><a href=\"https://t.me/subnazar/2667\">https://t.me/subnazar/2667</a><br><br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-30",
+      "type": "service",
+      "text": "2 December 2025",
+      "date": null
+    },
+    {
+      "id": "message242",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "02.12.2025 15:06:11 UTC+05:00",
+      "time": "15:06",
+      "text": "<a href=\"x.com/feseredward\">x.com/feseredward</a> :<br><br>— Men muhofazakorman va eng eski zamon katoliklaridanman. Biroq juda koʻpchilik oʻnglarning Islomga nisbatan bunaqa takabbur munosabati ahmoqona va aksilsamarador. Islom haqida nima desangiz deng, lekin u muhtasham tamaddun qurdi va daho mutafakkirlar yetishtirib chiqardi. Hatto Gʻarbiy gegemoniya davrida ham tuban Gʻarbda yoʻq boʻlmish oʻz-ishonch namoyish qilmoqda. Eng muhimi, u Xudoga ibodat qiladi, ayni paytda modern Gʻarbliklar esa oʻzlari va ishtahalariga. Raqibingni bilishning bir qismi uning quvvatini tan olish va hurmat qilish, faqat zaifligini aniqlash emas.<br><br><a href=\"x.com/deepshort7\">x.com/deepshort7</a> :<br><br>— “Liberal modernlik bizni nihilizmga shunday choʻktirdiki, na oʻzini qutqarishni xohlaydi va na arziydi.”<br><br>Biroq <a href=\"http://youtube.com/post/UgkxmWk3PtSP9OakMnf_aWwzFo6HwjwjETsC?si=gv3DahmQgMZAgmTD\">Islom</a> esa aynan aksi.<br><br><a href=\"t.me/kitoblab\">t.me/kitoblab</a>",
+      "replyTo": null,
+      "media": {
+        "type": "photo",
+        "src": "photos/photo_8@02-12-2025_15-06-11_thumb.jpg",
+        "href": "photos/photo_8@02-12-2025_15-06-11.jpg"
+      },
+      "isJoined": false
+    },
+    {
+      "id": "message-31",
+      "type": "service",
+      "text": "5 December 2025",
+      "date": null
+    },
+    {
+      "id": "message243",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "05.12.2025 09:32:39 UTC+05:00",
+      "time": "09:32",
+      "text": "Китобни қидирманг - у сизни ўзи топади.<br><br><a href=\"https://t.me/Hamid_Sodiq\">@Hamid_Sodiq</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    },
+    {
+      "id": "message-32",
+      "type": "service",
+      "text": "11 December 2025",
+      "date": null
+    },
+    {
+      "id": "message244",
+      "type": "message",
+      "author": "kitoblab.uz",
+      "date": "11.12.2025 11:23:11 UTC+05:00",
+      "time": "11:23",
+      "text": "Obuna bo'ling va kuzating<br><br><a href=\"https://jamshidmuslimov.substack.com\">https://jamshidmuslimov.substack.com</a>",
+      "replyTo": null,
+      "media": null,
+      "isJoined": false
+    }
+  ]
+}
